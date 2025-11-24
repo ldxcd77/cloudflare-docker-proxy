@@ -7,7 +7,7 @@ port = 8787
 local_protocol = "http"
 
 [env.vars]
-CUSTOM_DOMAIN = "zkyxcdgroup.sbs"
+CUSTOM_DOMAIN = "cdydzn.sbs"
 
 [env.dev.vars]
 MODE = "debug"
